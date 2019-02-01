@@ -1,5 +1,5 @@
 {
-  "timestamp"= 1548988321,
+  "timestamp": 1548988321,
   "signatures": {
     "clientstate_choked_commands"= 0x4D28,
     "clientstate_delta_ticks"= 0x174,
