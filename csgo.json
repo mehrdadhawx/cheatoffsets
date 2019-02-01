@@ -51,7 +51,7 @@
     "m_pitchClassPtr"= 0x5102CB0,
     "m_yawClassPtr"= 0xCC2E60,
     "model_ambient_min"= 0x58DD1C,
-  }
+  },
   "netvars": {
     "cs_gamerules_data"= 0x0;
     "m_ArmorValue"= 0xB328;
