@@ -1,7 +1,7 @@
 {
   "timestamp": 1548988321,
   "signatures": {
-    "clientstate_choked_commands": 0x4D28,
+    "clientstate_choked_commands": 0x4D28,}
     "clientstate_delta_ticks": 0x174,
     "clientstate_last_outgoing_command": 0x4D24,
     "clientstate_net_channel": 0x9C,
